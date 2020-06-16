@@ -3,10 +3,10 @@
 检察院后台
 
 1.安装
-npm install
+`npm install` 
 
 2.启动
-npm run serve
+`npm run serve` 
 
 3.打包
-npm run build
+`npm run build` 
